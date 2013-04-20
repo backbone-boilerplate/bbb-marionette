@@ -1,0 +1,18 @@
+{
+  "author": "Tim Branyen (@tbranyen)",
+  "name": "bbb-marionette",
+  "description": "Backbone Boilerplate and Marionette integration.",
+  "version": "0.1.0",
+
+  "jam": {
+    "dependencies": {
+      "backbone.marionette": "~1.0.2"
+    },
+
+    "include": [
+      "adapter.js"
+    ],
+
+    "main": "adapter.js"
+  }
+}
